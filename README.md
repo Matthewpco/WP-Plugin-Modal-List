@@ -2,7 +2,7 @@
 
 <br>
 
-![](https://github.com/Matthewpco/WP-Plugin-Posts-Category-Filter/blob/main/category-shortcode-posts-screenshot.png?raw=true)
+![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Modal-List/main/wp-plugin-modal-list.png)
 
 <br>
 
@@ -19,3 +19,7 @@
 - JavaScript
 - PHP
 - WordPress Plugin
+
+<br>
+
+![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Modal-List/main/wp-plugin-modal-list-2.png)
