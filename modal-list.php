@@ -18,8 +18,8 @@ function modal_list_add_menu_page() {
 // Enqueue the plugin stylesheet and scripts
 add_action('wp_enqueue_scripts', 'modal_list_enqueue');
 function modal_list_enqueue() {
-    wp_enqueue_style('wof-styles', plugin_dir_url(__FILE__) . '/css/wall-of-fame-styles.css');
-    wp_enqueue_script('wof-scripts', plugin_dir_url(__FILE__) . '/js/wall-of-fame-scripts.js', array(), false, true);
+    wp_enqueue_style('wof-styles', plugin_dir_url(__FILE__) . '/css/modal-list-styles.css');
+    wp_enqueue_script('wof-scripts', plugin_dir_url(__FILE__) . '/js/modal-list-scripts.js', array(), false, true);
 }
 
 
